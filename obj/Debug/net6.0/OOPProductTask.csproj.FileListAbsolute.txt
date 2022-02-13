@@ -1,0 +1,15 @@
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\bin\Debug\net6.0\OOPProductTask.exe
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\bin\Debug\net6.0\OOPProductTask.deps.json
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\bin\Debug\net6.0\OOPProductTask.runtimeconfig.json
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\bin\Debug\net6.0\OOPProductTask.dll
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\bin\Debug\net6.0\ref\OOPProductTask.dll
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\bin\Debug\net6.0\OOPProductTask.pdb
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\OOPProductTask.csproj.AssemblyReference.cache
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\OOPProductTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\OOPProductTask.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\OOPProductTask.AssemblyInfo.cs
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\OOPProductTask.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\OOPProductTask.dll
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\ref\OOPProductTask.dll
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\OOPProductTask.pdb
+C:\Users\Onur\source\repos\OOPProductTask\OOPProductTask\obj\Debug\net6.0\OOPProductTask.genruntimeconfig.cache
